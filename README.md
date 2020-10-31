@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 </h1>
 
 <p align="center">
- <img align="left" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="150" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="150" />
 </p>
 
 I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ Currently I'm working mostly with Angular :) 
