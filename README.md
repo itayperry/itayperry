@@ -1,8 +1,6 @@
 
  
-<h1 align="center">Hi <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" /> there 
-
-<img
+<h1 align="center">Hi <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" /> there <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
