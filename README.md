@@ -1,8 +1,11 @@
 ### Hi there 👋 
-I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100" height="70" />
+I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡  
 Currently I'm working mostly with Angular :) 
 I'm a big fan of React, Node.js, Sinonjs and contributing to open source - here is my latest pull request: https://github.com/sinonjs/fake-timers/pull/331.
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="200" />
+ 
+ 
 
 
 
