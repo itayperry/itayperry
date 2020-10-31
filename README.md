@@ -4,12 +4,14 @@
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
-I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ Currently I'm working mostly with Angular :) I'm a big fan of React, Node.js, Sinonjs 
-and contributing to open source - here is my latest pull request: https://github.com/sinonjs/fake-timers/pull/331.
+I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ Currently I'm working mostly with Angular :) 
 
 <p align="center">
  <img align="left" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="150" />
 </p>
+
+I'm a big fan of React, Node.js, Sinonjs 
+and contributing to open source - here is my latest pull request: https://github.com/sinonjs/fake-timers/pull/331.
 
 
 
