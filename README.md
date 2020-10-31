@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ 
+Currently I'm working mostly with Angular :) 
+I'm a big fan of React, Node.js, Sinonjs and contributing to open source - here is my latest pull request: https://github.com/sinonjs/fake-timers/pull/331.
 
 <!--
 **itayperry/itayperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
