@@ -2,7 +2,7 @@
  
 ### Hi there 👋 
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="200" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="180" />
 
 I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡  
 
