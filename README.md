@@ -4,7 +4,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="180" />
 
-I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡  
+I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡
 
 Currently I'm working mostly with Angular :) 
 
