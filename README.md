@@ -1,6 +1,6 @@
 
  
-<h1 align="center">Hi <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" /> there <img
+<h1 align="center">Hi there <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
@@ -9,8 +9,6 @@ and contributing to open source - here is my latest pull request: https://github
 
 <p align="center">
  <img align="left" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="150" />
- 
- 
 </p>
 
 
