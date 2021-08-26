@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ Currently I'm working mostly with Angular :) 
 
-I'm a big fan of React, Node.js, Sinonjs 
+I'm a big fan of React, Node.js, Sinon.JS 
 and contributing to open source.
 
 
