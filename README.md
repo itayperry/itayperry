@@ -1,6 +1,6 @@
 
  
-<h1 align="center">Hi there <img
+<h1 align="center">Hi there 💬<img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
@@ -11,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 I am Itay Perry 🌱 and I am a Junior Front End Developer ⚡ Currently I'm working mostly with Angular :) 
 
 I'm a big fan of React, Node.js, Sinonjs 
-and contributing to open source - here is my latest pull request: https://github.com/sinonjs/fake-timers/pull/331.
+and contributing to open source.
 
 
 
