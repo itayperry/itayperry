@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"
 
 I am Itay Perry 🌱 a Junior Front End Developer ⚡ Currently working mostly with Angular/React.
 
-I'm a big fan of Front End technologies, but I'm currently also learning some Rust 🔭🦀 :)
+I'm a big fan of Front End technologies, but I'm also learning some Rust 🔭🦀 :)
 
 
 
