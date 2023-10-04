@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"
  <img align="right" alt="GIF" src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="150" />
 </p>
 
-I am Itay Perry 🌱 a Junior Front End Developer ⚡ Currently working mostly with Angular/React.
+I am Itay Perry 🌱 a Front End Developer ⚡ Currently working mostly with Angular/React.
 
 I'm a big fan of Front End technologies, but I'm also learning some Rust 🔭🦀 :)
 
