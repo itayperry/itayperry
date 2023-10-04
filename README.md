@@ -1,6 +1,6 @@
 
  
-<h1 align="center">Hi there 💬<img
+<h1 align="center">🦄 Hi there 💬<img
 src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
